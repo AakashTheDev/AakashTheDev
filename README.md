@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as Full Stack Developer - React JS
+- 🌱 I’m currently learning MERN Stack
+- 👯 I’m looking to collaborate on MERN Projects
+- 📫 How to reach me: <a href="devaakashportfolio.w3spaces.com"/>
+- 😄 Pronouns: Aare
+- ⚡ Fun fact: I am also a Developer...
 <!--
 **AakashTheDev/AakashTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
