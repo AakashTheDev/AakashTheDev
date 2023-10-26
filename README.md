@@ -1,9 +1,11 @@
+# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working as Full Stack Developer - React JS
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on MERN Projects
-- 📫 How to reach me: <a href="devaakashportfolio.w3spaces.com"/>
+- 📫 How to reach me: <a href="https://devaakashportfolio.w3spaces.com" target="_blank"/>
 - 😄 Pronouns: Aare
 - ⚡ Fun fact: I am also a Developer...
 <!--
