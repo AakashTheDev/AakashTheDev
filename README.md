@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as Full Stack Developer - React JS
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on MERN Projects
-- 📫 How to reach me: <a href="[https://devaakashportfolio.w3spaces.com](https://devaakashportfolio.w3spaces.com/#contact)" target="_blank">Contact Me...</a>
+- 📫 How to reach me: <a href="https://devaakashportfolio.w3spaces.com/#contact" target="_blank">Contact Me...</a>
 - 🔏 My Portfolio Website: <a href="https://devaakashportfolio.w3spaces.com" target="_blank">Click Here...</a>
 - 😄 Pronouns: Aare
 - ⚡ Fun fact: I am also a Developer...
